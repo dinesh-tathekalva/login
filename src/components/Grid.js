@@ -36,7 +36,7 @@ class Grid extends Component {
                 </div>
                 <div style={{display: 'flex', justifyContent: 'center'}}>
                     <div style={{width: '9em', height: '9em', border: '1px solid #03a9f4', justifyContent: 'center', margin: '1em', cursor: 'pointer', backgroundColor: '#b3e5fc'}}>
-                        {plus}
+                        {/* {plus} */}
                         <img src={logo} alt="Logo" width='100%' height='100%'/>
 
                     </div>
